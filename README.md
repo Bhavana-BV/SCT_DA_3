@@ -1,0 +1,1 @@
+This script builds a Decision Tree classification model using a bank marketing dataset. It preprocesses the data by encoding categorical variables, splits the dataset into training and testing sets, trains a Decision Tree classifier, evaluates its performance using accuracy and a classification report, and visualizes the trained decision tree.
